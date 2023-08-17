@@ -28,7 +28,7 @@
         "phpunit/phpunit": "4.8.27|~5.7.21|^6.2"
     },
     "autoload": {
-        "psr-4": { "yii\\elasticsearch\\": "" }
+        "psr-4": { "yii\\elasticsearch\\": "src" }
     },
     "config": {
         "allow-plugins": {
